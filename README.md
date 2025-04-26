@@ -1,7 +1,7 @@
 # diabetesmellitus-
 
 Predicting Proteomic in Diabetes Mellitus Using Machine Learning and Deep Learning
-This repository contains the code used in the study titled "DiaProteo: A Supervised Learning Framework for Early Detection of Diabetes Mellitus based on Proteomic Profile". The code is structured to facilitate feature selection, model building, and explainable AI analysis to predict including antipsychotic response, clozapine response, and schizophrenia status.
+This repository contains the code used in the study titled "DiaProteo: A Supervised Learning Framework for Early Detection of Diabetes Mellitus based on Proteomic Profile". The code is structured to facilitate feature selection, model building, and explainable AI analysis to predict including Type-1 Diabetes, Type-2 and insulic diabetes.
 
 Authors
 Hamza Shahab Awan1
@@ -13,8 +13,11 @@ Yaser Daanial Khan4
 
 Affiliations:
 1 Department of Computer Science, Comsats University, Islamabad, Lahore Campus, Pakistan
+
 2 Department of Cybersecurity, College of Computer, Qassim University, Buraydah, Saudi Arabia.
+
 3 Department of Computer Engineering, College of Computer, Qassim University, Buraydah, Saudi Arabia.
+
 4 Department of Computer Science, School of Systems and Technology, University of Management and Technology, Lahore, Pakistan.
 
 
