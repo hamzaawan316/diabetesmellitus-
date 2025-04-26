@@ -12,10 +12,11 @@ Yaser Daanial Khan4
 
 
 Affiliations:
-1 Department of Computer Science, Comsats University, Islamabad, Lahore Campus
-2 Department of Cybersecurity, College of Computer, Qassim University, Buraydah, Saudi Arabia
-3 Department of Computer Engineering, College of Computer, Qassim University, Buraydah, Saudi Arabia
-4 Department of Computer Science, School of Systems and Technology, University of Management and Technology, Lahore, Pakistan
+1 Department of Computer Science, Comsats University, Islamabad, Lahore Campus, Pakistan
+2 Department of Cybersecurity, College of Computer, Qassim University, Buraydah, Saudi Arabia.
+3 Department of Computer Engineering, College of Computer, Qassim University, Buraydah, Saudi Arabia.
+4 Department of Computer Science, School of Systems and Technology, University of Management and Technology, Lahore, Pakistan.
+
 
 Corresponding: (Email: falturise@qu.edu.sa)
 
